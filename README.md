@@ -7,3 +7,5 @@ https://www.sandflysecurity.com/blog/bpfdoor-an-evasive-linux-backdoor-technical
 https://elastic.github.io/security-research/intelligence/2022/05/04.bpfdoor/article/
 
 https://exatrack.com/public/Tricephalic_Hellkeeper.pdf
+
+https://www.crowdstrike.com/blog/how-to-hunt-for-decisivearchitect-and-justforfun-implant/
